@@ -1,0 +1,19 @@
+{
+  "name": "structure",
+  "version": "1.0.0",
+  "description": "An express backend for routing up service calls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wobblewedge/node-structure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wobblewedge/node-structure/issues"
+  },
+  "homepage": "https://github.com/wobblewedge/node-structure#readme"
+}
