@@ -1,6 +1,5 @@
 const {blogService} = require('../services')
 const {createBlogpost} = blogService
-
 const postBlogpost = async (req,res,next) => {
     const {user,content} = req.body
     try{
